@@ -1,6 +1,6 @@
 pandas
 numpy
-sklearn
 string
 nltk
 fastapi
+scikit-learn
